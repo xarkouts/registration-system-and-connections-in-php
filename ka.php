@@ -2,7 +2,7 @@
 <?php  session_start();  ?>
 <head>
 <title>
-kalothorises 
+ΚΑΛΟΣΟΡΗΣΕΣ
 </title>
 </head>
 <body>
