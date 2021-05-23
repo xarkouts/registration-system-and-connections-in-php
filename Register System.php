@@ -2,7 +2,7 @@
 
 <head>
     <title>
-        kalimera
+       Register
     </title>
 
     <?php
