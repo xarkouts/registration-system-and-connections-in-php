@@ -30,8 +30,8 @@ session_start();
     $dedomena = $sindesi_db->query($select);
 
     if (isset($_POST["sub"])) {
-        $loginname = aspida_post("lon");
-        $loginpass = aspida_post("lko");
+       $loginname = $_POST["lon"];
+        $loginpass = $_POST["lko"];
     }
 
     ?>
